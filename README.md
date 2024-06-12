@@ -35,7 +35,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
+- And more 
 
 ## Business related terms
 
@@ -54,7 +54,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Distributors
 - Consumer
 
-## Company’s back ground
+## Company’s background
 
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
@@ -98,7 +98,7 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
+
 - In this project, we have followed Snowflake data modeling method.
 
 https://github.com/Sumitraadhya/Business-Insights-360-Atliq-Hardware/blob/main/Data_model.png
@@ -145,7 +145,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive.gif](https://github.com/Sumitraadhya/Business-Insights-360-Atliq-Hardware/blob/main/Executive%20view.png)
 
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://app.powerbi.com/groups/me/reports/03bde21e-6d22-48cb-8ad0-2f8631f8c0eb/7fb0641eb73a7b15665b?experience=power-bi)
 
 
 ## Project Outcome
